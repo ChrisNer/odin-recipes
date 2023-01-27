@@ -1,8 +1,21 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
 }
 
 h1 {
     background-color: rgb(240, 115, 70);
     text-align: center;
 }
+
+
+div.recipe-list {
+    font-size: 20px;
+    text-align: center;
+}
+
+.recipe-list ul {
+    display: inline-block;
+    text-align: left;
+}
+
